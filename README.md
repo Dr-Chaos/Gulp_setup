@@ -18,3 +18,4 @@ STRUCTURE RECOMMENDED:
 |-- includes/
     |-- include.php
 |-- index.php
+
