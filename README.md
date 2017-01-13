@@ -7,8 +7,10 @@ Open terminal in your projet:
 
 Manual:
 1. Copy gulp_setup.bat and in your-project/gulp
+
 2. Open terminal a terminal in your-project/gulp and type:
-3. gulp_setup
+
+gulp_setup
 
 
 
