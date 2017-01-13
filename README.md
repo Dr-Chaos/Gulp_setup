@@ -1,12 +1,21 @@
-# Gulp_setup
+## DESCRITPION
 Configure gulp easlier with Gulp setup !
 
+## HOW TO USE ?
+Full command line:
+Open terminal in your projet:
 
-STRUCTURE RECOMMENDED:
+Manual:
+1. Copy gulp_setup.bat and in your-project/gulp
+2. Open terminal a terminal in your-project/gulp and type:
+3. gulp_setup
+
+
+
+## STRUCTURE RECOMMENDED:
 |-- gulp/
     |-- gulp_setup-bat
     |-- gulpfile.js
-    
 |-- style/
     |-- main.scss                           
     |-- dist/
@@ -18,4 +27,3 @@ STRUCTURE RECOMMENDED:
 |-- includes/
     |-- include.php
 |-- index.php
-
