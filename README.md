@@ -4,12 +4,13 @@ Configure gulp easlier with Gulp setup !
 ## HOW TO USE ?
 Full command line:
 Open terminal in your projet:
+git clone https://github.com/Dr-Chaos/Gulp_setup/ gulp
+cd gulp
+gulp_setup
 
-Manual:
-1. Copy gulp_setup.bat and in your-project/gulp
-
-2. Open terminal a terminal in your-project/gulp and type:
-
+Manually:
+1. Copy gulp_setup.bat and gulpfile.js in your-project/gulp
+2. Open terminal a terminal in your-project/gulp:
 gulp_setup
 
 
