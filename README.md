@@ -6,6 +6,7 @@ STRUCTURE RECOMMENDED:
 |-- gulp/
     |-- gulp_setup-bat
     |-- gulpfile.js
+    
 |-- style/
     |-- main.scss                           
     |-- dist/
