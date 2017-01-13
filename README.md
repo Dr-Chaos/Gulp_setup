@@ -11,8 +11,11 @@ cd gulp
 gulp_setup
 ```
 
+
 Manually:
+
 1. Copy gulp_setup.bat and gulpfile.js in your-project/gulp
+
 2. Open terminal a terminal in your-project/gulp:
 ```
 gulp_setup
