@@ -23,7 +23,8 @@ gulp_setup
 
 
 
-## STRUCTURE RECOMMENDED:
+## STRUCTURE RECOMMENDED
+```:
 |-- gulp/
     |-- gulp_setup-bat
     |-- gulpfile.js
@@ -38,3 +39,4 @@ gulp_setup
 |-- includes/
     |-- include.php
 |-- index.php
+```
