@@ -23,7 +23,7 @@ gulp_setup
 
 
 ## STRUCTURE RECOMMENDED
-```:
+```
 |-- gulp/
     |-- gulp_setup.bat
     |-- gulpfile.js
